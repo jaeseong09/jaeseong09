@@ -14,6 +14,6 @@
 
 ### 🛠 Skills
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nestjs,mongodb,tailwind,vite,html,css,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nestjs,mongodb,tailwind,vite,git,github,vscode,figma" />
 
 </div>
