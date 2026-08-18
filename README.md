@@ -1,6 +1,6 @@
 <div align="center">
 
-# 위재성 [Wee-Jaeseong]
+# 위재성 [Wi-Jaeseong]
 
 > "Full-Stack Web Developer"
 
